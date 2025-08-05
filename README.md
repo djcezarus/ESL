@@ -56,7 +56,7 @@ Charlie,810.00,162.00,648.00
 
 ## Author
 
-Your Name – [your-university-email@example.com](mailto:your-university-email@example.com)
+Cezar Danila – Elisabeth School Of London
 
 ## License
 
